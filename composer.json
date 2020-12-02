@@ -1,7 +1,7 @@
 {
   "name": "darkonevt777/static-info-tables-vehicle-registration-code",
   "type": "typo3-cms-extension",
-  "description": "Add-on for the TYPO3 Extension static_info_tables: international vehicle registration codes (i.e. E for Espania or D for Germany)",
+  "description": "Add-on for the TYPO3 Extension static_info_tables: international vehicle registration codes (i.e. E for Spain or D for Germany)",
   "license": "GPL-2.0-or-later",
   "repositories": [
     {
@@ -16,7 +16,7 @@
   ],
   "version":"1.0.0",
   "support": {
-    "issues": "https://github.com/darkonevt777/static_info_tables_vehicle_registration_code/issues"
+    "issues": "https://github.com/darkonevt777/static-info-tables-vehicle-registration-code/issues"
   },
   "authors": [
     {
