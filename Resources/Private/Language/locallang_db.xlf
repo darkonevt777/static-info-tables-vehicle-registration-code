@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-11-19T15:26:10.261Z" product-name="static_info_tables_vehicle_registration_code">
+		<header/>
+		<body>
+			<trans-unit id="static_countries_item.cn_vehicle_registration_code" xml:space="preserve">
+				<source>Vehicle registration code:</source>
+				<target>Kfz-Nationalitätszeichen:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
